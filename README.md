@@ -1,3 +1,5 @@
-This is a clone of AirBnB using art-pieces. This means art-pieces can be shown, booked by other users, as well as edited and deleted by the creators. Moreover, each user has its own profile page summarizing all information about his activity on ARTSPACE. 
+You want to impress your friends, but not spend two months' salary?
+You're a young artist, looking for places to show your talents?
+Fear not, Art space is a platform to change your living space, even for a few days.
 
-ARTSPACE was a 1-week project of a group of four Le Wagon alumnis during the Web-Development Bootcamp. 
+![artspace](https://serving.photos.photobox.com/40244454470423134489abbf028982155e4963bd87b2d5dbfabfd1cd5bda8b44b6b6cf90.jpg)
